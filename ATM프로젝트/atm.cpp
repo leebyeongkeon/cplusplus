@@ -30,7 +30,7 @@ vector<string> tokenize_getline(const string& data, const char delimiter) {
 class MyDBHelper
 {
 private:
-	Connection* con;//사용할 db에 연결할 setSchema()함수가 있음. 
+	Connection* con;//사용할 db에 연결할 setSchema()함수가 있음.
 	Statement *stmt;//sql구문을 실행하는 역할.
 	ResultSet* res;	//쿼리 결과 데이터를 관리함.
 	Driver* driver;	//db서버에 연결하는 connect()함수가 포함되어 있음.
