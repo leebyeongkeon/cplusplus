@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyDBHelper">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEABAAAAAAAgAAJAAwCAAAAAAgAAAAAAAAQAAAA=</HashCode>
+      <FileName>atm.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Human">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAgAAAAAAAEAAAAAA=</HashCode>
+      <FileName>atm.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Manager">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACEAAgJAgAAAAAAEAAAAAAAAABAAQAAAAAAAAgAQ=</HashCode>
+      <FileName>atm.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Customer">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEABQAAQAASAAEAAAEEAAQAAAAEAAAAQAAAIAAAIAA=</HashCode>
+      <FileName>atm.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Machine">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAABAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>atm.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATM">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oABEAAAAAQCAAQIAAAAAgBQCBAIAIIQQAAAACAAAAAA=</HashCode>
+      <FileName>atm.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
